@@ -14,7 +14,15 @@ Notes:
 
 3 The command to generate the digits:
   imagettftext($im, 24, 0, 75, 240, $col_text, $font, $text);
-  //numbers are set for the positioning of the text
+  //numbers are set for the positioning of the digits
+  
+  
+  
+Here is a sample image:
+
+https://www.adultloving.hk/image/barcode.png?nocache=1582099198
+
+
   
   Hope this helps.
   
